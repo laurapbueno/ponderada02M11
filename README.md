@@ -121,7 +121,7 @@ Gravei um vídeo apresentando o funcionamento completo da CPU, explicando:
 - Como a Unidade de Controle ativa os sinais;
 - E como o resultado é mostrado nos displays.
 
-[Link do vídeo demonstrativo]
+[Vídeo demonstrativo](https://youtu.be/n8wiTWI8wRE)
 
 ---
 
