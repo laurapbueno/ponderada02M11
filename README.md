@@ -106,12 +106,12 @@ Eles exibem o valor em formato decimal, permitindo visualizar os resultados posi
 | `8bit_incrementor.dig`, `8bit_decrementor.dig` | Incremento e decremento. |
 | `Multiplier.dig` | Multiplicação de 4 bits. |
 | `Divisor.dig`, `Divide_step.dig` | Divisão de 4 bits com resto. |
-| `ControlUnit.dig`, `sequenciator.dig` | Unidade de controle e sequência de tempos T1–T6. |
+| `ControlUnit.dig`, `Sequenciator.dig` | Unidade de controle e sequência de tempos T1–T6. |
 | `DataPath.dig` | Conexão entre registradores, ULA e barramento. |
 | `ResettableRegister.dig` | Modelo de registrador com reset. |
-| `PC.dig`, `newPC.dig` | Contador de programa. |
-| `memory.dig` | Memória ROM com programa de instruções. |
-| `main_cpu.dig`, `newCPU.dig` | Montagem completa da CPU de 8 bits. |
+| `PC.dig`, `NewPC.dig` | Contador de programa. |
+| `Memory.dig` | Memória ROM com programa de instruções. |
+| `Main_CPU.dig`, `NewCPU.dig` | Montagem completa da CPU de 8 bits. |
 
 ---
 
